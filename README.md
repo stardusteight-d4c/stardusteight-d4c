@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="computer.png" min-width="300px" max-width="300px" width="300px" align="left">
 
-<!--
-**stardusteight-d4c/stardusteight-d4c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problems through code. 
+</p>
 
-Here are some ideas to get you started:
+<p>I'm always studying <strong>backend</strong> and <strong>frontend</strong> web development looking to build more and more complete and sophisticated applications.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :gear: Tools 
+![HTML5](https://img.shields.io/badge/HTML5-6610F2.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6610F2.svg?style=plastic&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-6610F2.svg?style=plastic&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-6610F2.svg?style=plastic&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-6610F2.svg?style=plastic&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=plastic&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-6610F2.svg?style=plastic&logo=react&logoColor=white)
+
+<!--- ![Terraform](https://img.shields.io/badge/Portfolio-6610F2.svg?style=for-the-badge&logoColor=white) --->
+  
