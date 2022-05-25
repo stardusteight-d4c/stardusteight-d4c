@@ -4,7 +4,7 @@
 Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problems through code. 
 </p>
 
-<p>I'm always studying <strong>backend</strong> and <strong>frontend</strong> web development looking to build more and more complete and sophisticated applications. Hope we can progress together!</p>
+<p>I'm always studying <strong>backend</strong> and <strong>frontend</strong> web development looking to build more and more complete and sophisticated applications. Hope we can make progress together!</p>
 
 ---
 
