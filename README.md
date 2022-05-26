@@ -1,4 +1,4 @@
-<img src="computer.png" min-width="300px" max-width="300px" width="300px" align="left">
+<img src="computer-iso-gradient.png" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="left"> 
 Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problems through code. 
