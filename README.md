@@ -14,8 +14,9 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 ![CSS3](https://img.shields.io/badge/CSS3-6610F2.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-6610F2.svg?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-6610F2.svg?style=flat&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-6610F2.svg?style=flat&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6610F2.svg?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-6610F2.svg?style=flat&logo=express&logoColor=white)
 
 <!--- ![Terraform](https://img.shields.io/badge/Portfolio-6610F2.svg?style=for-the-badge&logoColor=white) --->
