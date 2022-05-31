@@ -19,6 +19,7 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 ![React](https://img.shields.io/badge/React-6610F2.svg?style=flat&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-6610F2.svg?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-6610F2.svg?style=flat&logo=nestjs&logoColor=white)
 
 <!--- ![Terraform](https://img.shields.io/badge/Portfolio-6610F2.svg?style=for-the-badge&logoColor=white) --->
   
