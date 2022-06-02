@@ -17,6 +17,7 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 ![JavaScript](https://img.shields.io/badge/Javascript-6610F2.svg?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-6610F2.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-6610F2.svg?style=flat&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-6610F2?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-6610F2.svg?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-6610F2.svg?style=flat&logo=nestjs&logoColor=white)
