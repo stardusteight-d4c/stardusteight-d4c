@@ -10,17 +10,17 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 
 ### :gear: Tools
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-6610F2.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6610F2.svg?style=flat&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-6610F2?style=flat&logo=styled-components&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-6610F2.svg?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-6610F2.svg?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Typescript-6610F2.svg?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-6610F2.svg?style=flat&logo=react&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-6610F2?style=flat&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6610F2?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-6610F2.svg?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-6610F2.svg?style=flat&logo=nestjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-3F00E1.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3F00E1.svg?style=flat&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-3F00E1?style=flat&logo=styled-components&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-3F00E1.svg?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-3F00E1.svg?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-3F00E1.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat&logo=react&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-3F00E1?style=flat&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-3F00E1?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-3F00E1.svg?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-3F00E1.svg?style=flat&logo=nestjs&logoColor=white)
 
 <!--- ![Terraform](https://img.shields.io/badge/Portfolio-6610F2.svg?style=for-the-badge&logoColor=white) --->
   
