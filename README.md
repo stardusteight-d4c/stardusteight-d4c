@@ -20,7 +20,9 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 ![Express.js](https://img.shields.io/badge/Express.js-3F00E1.svg?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-3F00E1.svg?style=flat-square&logo=nestjs&logoColor=white)
 
+<!--
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true" width="300" align="left">
 </p>
+-->
   
