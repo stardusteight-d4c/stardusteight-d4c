@@ -20,7 +20,8 @@ Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problem
 ![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat-square&logo=react&logoColor=white)
 
 
-<br><br><br>
+<br><br>
+---
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true" width="350" align="center">
 </p>
