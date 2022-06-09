@@ -1,10 +1,12 @@
 <img src="computer.png" min-width="300px" max-width="300px" width="300px" align="left">
 
-<p align="left"> 
+<p align="right"> 
 Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problems through code. 
 </p>
 
-<p>I'm always studying <strong>backend</strong> and <strong>frontend</strong> web development looking to build more and more complete and sophisticated applications. Hope we can make progress together!</p>
+<p align="right">
+I'm always studying <strong>backend</strong> and <strong>frontend</strong> web development looking to build more and more complete and sophisticated applications. Hope we can make progress together!
+</p>
 
 ---
 
