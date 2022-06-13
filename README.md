@@ -23,11 +23,10 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 
 
 <br><br>
-<!--
 --- 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true" width="350" align="center">
 </p>
-*/ -->
+
 
   
