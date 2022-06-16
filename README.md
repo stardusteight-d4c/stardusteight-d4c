@@ -20,6 +20,7 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 ![NodeJS](https://img.shields.io/badge/Node.js-3F00E1?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-3F00E1.svg?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat-square&logo=react&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-3F00E1?style=flat-square&logo=cypress&logoColor=white)
 
 
 <br><br>
