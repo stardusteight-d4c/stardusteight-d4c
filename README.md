@@ -12,9 +12,10 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 
 ### :gear: Tools
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-3F00E1.svg?style=flat-square&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-3F00E1.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-3F00E1.svg?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3F00E1.svg?style=flat-square&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-3F00E1.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-3F00E1.svg?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-3F00E1.svg?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-3F00E1?style=flat-square&logo=node.js&logoColor=white)
