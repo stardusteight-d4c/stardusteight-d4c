@@ -1,7 +1,7 @@
 <img src="computer.png" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="left"> 
-Hello World! My name is <strong>Gabriel Sena</strong> and I love solving problems through code. 
+Hello World! My name is <strong>Gabriel Sena</strong> and I like solving problems through code. 
 </p>
 
 <p align="left">
