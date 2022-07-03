@@ -28,7 +28,7 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 <br><br>
 --- 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true" width="350" align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=stardusteight-d4c&theme=buefy&hide_border=true&ring=3F00E1&sideLabels=3F00E1&sideNums=3F00E1&fire=3F00E1" width="350" align="center">
 </p>
 
 
