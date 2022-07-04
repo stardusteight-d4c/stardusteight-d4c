@@ -24,14 +24,6 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 ![GraphQL](https://img.shields.io/badge/-GraphQL-3F00E1?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat-square&logo=react&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-3F00E1?style=flat-square&logo=cypress&logoColor=white)
-
-<a href="https://next-portfolio-sigma-azure.vercel.app/">
-
-![Cypress](https://img.shields.io/badge/-PORTFOLIO-3F00E1?style=flat-square&logo=&logoColor=white)
-
-</a>
-
-
 <br><br>
 --- 
 <p align = "center">
