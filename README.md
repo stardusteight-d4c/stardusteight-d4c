@@ -23,7 +23,7 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 ![Next JS](https://img.shields.io/badge/Next-3F00E1?style=flat-square&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-3F00E1?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat-square&logo=react&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-3F00E1?style=flat-square&logo=cypress&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3F00E1?style=flat-square&logo=Prisma&logoColor=white)
 <br><br>
 --- 
 <p align = "center">
