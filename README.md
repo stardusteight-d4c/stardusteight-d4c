@@ -19,7 +19,7 @@ I'm always studying <strong>backend</strong> and <strong>frontend</strong> web d
 ![JavaScript](https://img.shields.io/badge/Javascript-3F00E1.svg?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/Typescript-3F00E1.svg?style=flat-square&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-3F00E1?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-3F00E1.svg?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-3F00E1?style=flat-square&logo=Firebase&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-3F00E1?style=flat-square&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-3F00E1?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-3F00E1.svg?style=flat-square&logo=react&logoColor=white)
